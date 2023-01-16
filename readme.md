@@ -1,0 +1,1 @@
+A detailed analysis of the Indian Premier League using Python libraries  giving us complete insights on the tournament, from the performances of the teams, player contributions to the impact of venues and toss decisions on the outcome of a match.
